@@ -1,0 +1,30 @@
+INFO:root:=== Monte Carlo Policy Evaluation ===
+INFO:root:Policy: Always Invest
+INFO:root:Value Function V:
+INFO:root:V[0] = 3.3570
+INFO:root:V[1] = 6.7578
+INFO:root:V[2] = 0.4741
+INFO:root:V[3] = 10.0000
+INFO:root:V[4] = 0.0000
+INFO:root:
+INFO:root:Policy: Never Invest
+INFO:root:Value Function V:
+INFO:root:V[0] = 1.6856
+INFO:root:V[1] = 4.9995
+INFO:root:V[2] = 0.5965
+INFO:root:V[3] = 10.0000
+INFO:root:V[4] = 0.0000
+INFO:root:
+INFO:root:=== Policy Iteration for Optimal Policy ===
+INFO:root:Optimal Value Function V:
+INFO:root:V[0] = 3.3207
+INFO:root:V[1] = 6.7450
+INFO:root:V[2] = 0.5855
+INFO:root:V[3] = 10.0000
+INFO:root:V[4] = 0.0000
+INFO:root:Optimal Policy:
+INFO:root:Policy[0] = Invest
+INFO:root:Policy[1] = Invest
+INFO:root:Policy[2] = Do not invest
+INFO:root:Policy[3] = Do not invest
+INFO:root:Policy[4] = Do not invest
