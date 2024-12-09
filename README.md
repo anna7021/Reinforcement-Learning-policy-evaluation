@@ -7,10 +7,10 @@ These state transitions happen from month to month, and at each state, you have 
 
 After careful study, your analysts develop the program below to simulate different scenarios using statistical data from similar projects.
 
-task 1. Use the Monte Carlo& Dynamic Programming method to find the value functions induced by the following policies:
+task 1. Use the Monte Carlo method to find the value functions induced by the following policies:
 a) Always invest
 b) Never invest
 
-task 2. Use the Monte Carlo& Dynamic Programming method to do policy iteration and find the optimal policy and corresponding value functions
+task 2. Use the Dynamic Programming method to do policy iteration and find the optimal policy and corresponding value functions
 
 Use a discount factor of 0.9960 to discount future rewards.
