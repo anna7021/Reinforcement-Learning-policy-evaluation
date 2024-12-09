@@ -1,4 +1,5 @@
 # Reinforcement-Learning-policy-evaluation
+IE 533 project
 Project Background: You are the CEO of a biotech company which is considering the development of a new vaccine. Starting at phase 0 (state 0), the drug develpment can stay in the same state or advance to "phase 1 with promising results" (state 1) or advance to "phase 1 with disappointing results" (state 2), or fail completely (state 4). At phase 1, the drug can stay in the same state, fail or become a success (state 3), in which case you will sell its patent to a big pharma company for 10$ million.
 
 These state transitions happen from month to month, and at each state, you have the option to make an additional investment of 100,000$, which increases the chances of success.
