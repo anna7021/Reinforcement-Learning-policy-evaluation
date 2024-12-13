@@ -2,10 +2,10 @@ import numpy as np
 import logging
 import os
 
-from modules.mdp import MDP
-from modules.policy import Policy
-from modules.policy_evaluation import MonteCarloPolicyEvaluation
-from modules.policy_iteration import PolicyIteration
+from mdp import MDP
+from policy import Policy
+from policy_evaluation import MonteCarloPolicyEvaluation
+from policy_iteration import PolicyIteration
 
 log_dir = 'logs'
 os.makedirs(log_dir, exist_ok=True)
